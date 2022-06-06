@@ -1,3 +1,3 @@
-# Perturbations
+# The CMB and matter power spectra
  
-In this milestone I consider the evolution of structure in the universe. The Einstein and Boltzmann equations are solved to find the evolution of perturbations.
+In this milestone I compute the CMB and matter power spectra
